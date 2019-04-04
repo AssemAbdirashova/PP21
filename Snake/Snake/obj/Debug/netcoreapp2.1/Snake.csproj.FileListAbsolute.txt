@@ -1,0 +1,11 @@
+C:\Users\Дакотти\Desktop\PP2 Lab\Snake\Snake\bin\Debug\netcoreapp2.1\Snake.deps.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Snake\Snake\bin\Debug\netcoreapp2.1\Snake.runtimeconfig.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Snake\Snake\bin\Debug\netcoreapp2.1\Snake.runtimeconfig.dev.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Snake\Snake\bin\Debug\netcoreapp2.1\Snake.dll
+C:\Users\Дакотти\Desktop\PP2 Lab\Snake\Snake\bin\Debug\netcoreapp2.1\Snake.pdb
+C:\Users\Дакотти\Desktop\PP2 Lab\Snake\Snake\obj\Debug\netcoreapp2.1\Snake.csprojAssemblyReference.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Snake\Snake\obj\Debug\netcoreapp2.1\Snake.csproj.CoreCompileInputs.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Snake\Snake\obj\Debug\netcoreapp2.1\Snake.AssemblyInfoInputs.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Snake\Snake\obj\Debug\netcoreapp2.1\Snake.AssemblyInfo.cs
+C:\Users\Дакотти\Desktop\PP2 Lab\Snake\Snake\obj\Debug\netcoreapp2.1\Snake.dll
+C:\Users\Дакотти\Desktop\PP2 Lab\Snake\Snake\obj\Debug\netcoreapp2.1\Snake.pdb

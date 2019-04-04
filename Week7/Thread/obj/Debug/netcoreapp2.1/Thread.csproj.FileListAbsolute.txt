@@ -1,0 +1,11 @@
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Thread\obj\Debug\netcoreapp2.1\Thread.csproj.CoreCompileInputs.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Thread\obj\Debug\netcoreapp2.1\Thread.AssemblyInfoInputs.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Thread\obj\Debug\netcoreapp2.1\Thread.AssemblyInfo.cs
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Thread\bin\Debug\netcoreapp2.1\Thread.deps.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Thread\bin\Debug\netcoreapp2.1\Thread.runtimeconfig.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Thread\bin\Debug\netcoreapp2.1\Thread.runtimeconfig.dev.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Thread\bin\Debug\netcoreapp2.1\Thread.dll
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Thread\bin\Debug\netcoreapp2.1\Thread.pdb
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Thread\obj\Debug\netcoreapp2.1\Thread.dll
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Thread\obj\Debug\netcoreapp2.1\Thread.pdb
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Thread\obj\Debug\netcoreapp2.1\Thread.csprojAssemblyReference.cache

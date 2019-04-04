@@ -1,0 +1,11 @@
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Cvetophor\bin\Debug\netcoreapp2.1\Cvetophor.deps.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Cvetophor\bin\Debug\netcoreapp2.1\Cvetophor.runtimeconfig.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Cvetophor\bin\Debug\netcoreapp2.1\Cvetophor.runtimeconfig.dev.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Cvetophor\bin\Debug\netcoreapp2.1\Cvetophor.dll
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Cvetophor\bin\Debug\netcoreapp2.1\Cvetophor.pdb
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Cvetophor\obj\Debug\netcoreapp2.1\Cvetophor.csproj.CoreCompileInputs.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Cvetophor\obj\Debug\netcoreapp2.1\Cvetophor.AssemblyInfoInputs.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Cvetophor\obj\Debug\netcoreapp2.1\Cvetophor.AssemblyInfo.cs
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Cvetophor\obj\Debug\netcoreapp2.1\Cvetophor.dll
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Cvetophor\obj\Debug\netcoreapp2.1\Cvetophor.pdb
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Cvetophor\obj\Debug\netcoreapp2.1\Cvetophor.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Achieved\bin\Debug\netcoreapp2.1\Achieved.deps.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Achieved\bin\Debug\netcoreapp2.1\Achieved.runtimeconfig.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Achieved\bin\Debug\netcoreapp2.1\Achieved.runtimeconfig.dev.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Achieved\bin\Debug\netcoreapp2.1\Achieved.dll
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Achieved\bin\Debug\netcoreapp2.1\Achieved.pdb
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Achieved\obj\Debug\netcoreapp2.1\Achieved.csprojAssemblyReference.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Achieved\obj\Debug\netcoreapp2.1\Achieved.csproj.CoreCompileInputs.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Achieved\obj\Debug\netcoreapp2.1\Achieved.AssemblyInfoInputs.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Achieved\obj\Debug\netcoreapp2.1\Achieved.AssemblyInfo.cs
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Achieved\obj\Debug\netcoreapp2.1\Achieved.dll
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Achieved\obj\Debug\netcoreapp2.1\Achieved.pdb

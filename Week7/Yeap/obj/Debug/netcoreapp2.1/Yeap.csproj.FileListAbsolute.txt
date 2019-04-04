@@ -1,0 +1,11 @@
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Yeap\bin\Debug\netcoreapp2.1\Yeap.deps.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Yeap\bin\Debug\netcoreapp2.1\Yeap.runtimeconfig.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Yeap\bin\Debug\netcoreapp2.1\Yeap.runtimeconfig.dev.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Yeap\bin\Debug\netcoreapp2.1\Yeap.dll
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Yeap\bin\Debug\netcoreapp2.1\Yeap.pdb
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Yeap\obj\Debug\netcoreapp2.1\Yeap.csprojAssemblyReference.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Yeap\obj\Debug\netcoreapp2.1\Yeap.csproj.CoreCompileInputs.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Yeap\obj\Debug\netcoreapp2.1\Yeap.AssemblyInfoInputs.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Yeap\obj\Debug\netcoreapp2.1\Yeap.AssemblyInfo.cs
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Yeap\obj\Debug\netcoreapp2.1\Yeap.dll
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Yeap\obj\Debug\netcoreapp2.1\Yeap.pdb

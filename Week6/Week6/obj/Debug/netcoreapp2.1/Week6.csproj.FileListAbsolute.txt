@@ -1,0 +1,11 @@
+C:\Users\Дакотти\Desktop\PP2 Lab\Week6\Week6\obj\Debug\netcoreapp2.1\Week6.csprojAssemblyReference.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week6\Week6\obj\Debug\netcoreapp2.1\Week6.csproj.CoreCompileInputs.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week6\Week6\obj\Debug\netcoreapp2.1\Week6.AssemblyInfoInputs.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week6\Week6\obj\Debug\netcoreapp2.1\Week6.AssemblyInfo.cs
+C:\Users\Дакотти\Desktop\PP2 Lab\Week6\Week6\bin\Debug\netcoreapp2.1\Week6.deps.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week6\Week6\bin\Debug\netcoreapp2.1\Week6.runtimeconfig.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week6\Week6\bin\Debug\netcoreapp2.1\Week6.runtimeconfig.dev.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week6\Week6\bin\Debug\netcoreapp2.1\Week6.dll
+C:\Users\Дакотти\Desktop\PP2 Lab\Week6\Week6\bin\Debug\netcoreapp2.1\Week6.pdb
+C:\Users\Дакотти\Desktop\PP2 Lab\Week6\Week6\obj\Debug\netcoreapp2.1\Week6.dll
+C:\Users\Дакотти\Desktop\PP2 Lab\Week6\Week6\obj\Debug\netcoreapp2.1\Week6.pdb

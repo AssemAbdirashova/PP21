@@ -7,6 +7,8 @@ namespace _1
     class FarManager
     {
         public int cursor;
+        //public int k;
+        public int z;
         public string path;
         public int sz;
         //   public bool ok;
@@ -31,14 +33,16 @@ namespace _1
         {
             if (cursor == index)
             {
-                Console.BackgroundColor = ConsoleColor.Red;
+                Console.BackgroundColor = ConsoleColor.Blue;
                 Console.ForegroundColor = ConsoleColor.Black;
                 currentFs = fs;
             }
             else if (fs.GetType() == typeof(DirectoryInfo))
             {
+
                 Console.BackgroundColor = ConsoleColor.Black;
                 Console.ForegroundColor = ConsoleColor.White;
+                
             }
             else
             {
@@ -46,6 +50,24 @@ namespace _1
                 Console.ForegroundColor = ConsoleColor.Yellow;
             }
         }
+        /*
+        public void TheBest()
+        {
+            directory = new DirectoryInfo(path);
+            foreach (var x in directory.GetDirectories())
+            {
+                int cnt = x.GetFiles("*.txt").Length;
+                Console.WriteLine(x.Name + " " + cnt);
+            }
+
+            foreach( var  x in directory.GetFiles())
+            {
+                Console.WriteLine(x.Name);
+            }
+                
+
+
+        }*/
 
         public void Show()
         {
@@ -55,15 +77,15 @@ namespace _1
             FileSystemInfo[] fs = directory.GetFileSystemInfos();
             for (int i = 0, k = 0; i < fs.Length; i++)
             {
-                /*        /if (ok == false && fs[i].Name[0] == '.')
-                            {
-                                continue;
-                            }*/
                 Color(fs[i], k);
-                Console.WriteLine((i + 1) + "." + fs[i].Name);
+
+                Console.WriteLine((i+1) + "."+fs[i].Name );
+                //TheBest();
                 k++;
+
             }
         }
+
         public void Up()
         {
             cursor--;
@@ -110,6 +132,7 @@ namespace _1
                     {
                         cursor = 0;
                         path = currentFs.FullName;
+
                     }
                     else
                     {
@@ -150,7 +173,6 @@ namespace _1
                 }
             }
         }
-
     }
 
     class Program

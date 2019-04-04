@@ -1,0 +1,11 @@
+C:\Users\Дакотти\Desktop\PP2 Lab\Week5\Points\bin\Debug\netcoreapp2.1\Points.deps.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week5\Points\bin\Debug\netcoreapp2.1\Points.runtimeconfig.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week5\Points\bin\Debug\netcoreapp2.1\Points.runtimeconfig.dev.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week5\Points\bin\Debug\netcoreapp2.1\Points.dll
+C:\Users\Дакотти\Desktop\PP2 Lab\Week5\Points\bin\Debug\netcoreapp2.1\Points.pdb
+C:\Users\Дакотти\Desktop\PP2 Lab\Week5\Points\obj\Debug\netcoreapp2.1\Points.csprojAssemblyReference.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week5\Points\obj\Debug\netcoreapp2.1\Points.csproj.CoreCompileInputs.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week5\Points\obj\Debug\netcoreapp2.1\Points.AssemblyInfoInputs.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week5\Points\obj\Debug\netcoreapp2.1\Points.AssemblyInfo.cs
+C:\Users\Дакотти\Desktop\PP2 Lab\Week5\Points\obj\Debug\netcoreapp2.1\Points.dll
+C:\Users\Дакотти\Desktop\PP2 Lab\Week5\Points\obj\Debug\netcoreapp2.1\Points.pdb

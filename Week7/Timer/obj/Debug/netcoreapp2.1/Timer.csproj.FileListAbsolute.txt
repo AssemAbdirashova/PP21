@@ -1,0 +1,10 @@
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Timer\bin\Debug\netcoreapp2.1\Timer.deps.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Timer\bin\Debug\netcoreapp2.1\Timer.runtimeconfig.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Timer\bin\Debug\netcoreapp2.1\Timer.runtimeconfig.dev.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Timer\bin\Debug\netcoreapp2.1\Timer.dll
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Timer\bin\Debug\netcoreapp2.1\Timer.pdb
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Timer\obj\Debug\netcoreapp2.1\Timer.csproj.CoreCompileInputs.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Timer\obj\Debug\netcoreapp2.1\Timer.AssemblyInfoInputs.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Timer\obj\Debug\netcoreapp2.1\Timer.AssemblyInfo.cs
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Timer\obj\Debug\netcoreapp2.1\Timer.dll
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Timer\obj\Debug\netcoreapp2.1\Timer.pdb

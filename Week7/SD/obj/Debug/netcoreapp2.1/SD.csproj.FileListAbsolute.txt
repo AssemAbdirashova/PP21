@@ -1,0 +1,10 @@
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\SD\bin\Debug\netcoreapp2.1\SD.deps.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\SD\bin\Debug\netcoreapp2.1\SD.runtimeconfig.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\SD\bin\Debug\netcoreapp2.1\SD.runtimeconfig.dev.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\SD\bin\Debug\netcoreapp2.1\SD.dll
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\SD\bin\Debug\netcoreapp2.1\SD.pdb
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\SD\obj\Debug\netcoreapp2.1\SD.csproj.CoreCompileInputs.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\SD\obj\Debug\netcoreapp2.1\SD.AssemblyInfoInputs.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\SD\obj\Debug\netcoreapp2.1\SD.AssemblyInfo.cs
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\SD\obj\Debug\netcoreapp2.1\SD.dll
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\SD\obj\Debug\netcoreapp2.1\SD.pdb

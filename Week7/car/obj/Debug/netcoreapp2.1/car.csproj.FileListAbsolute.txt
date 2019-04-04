@@ -1,0 +1,11 @@
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\car\bin\Debug\netcoreapp2.1\car.deps.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\car\bin\Debug\netcoreapp2.1\car.runtimeconfig.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\car\bin\Debug\netcoreapp2.1\car.runtimeconfig.dev.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\car\bin\Debug\netcoreapp2.1\car.dll
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\car\bin\Debug\netcoreapp2.1\car.pdb
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\car\obj\Debug\netcoreapp2.1\car.csproj.CoreCompileInputs.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\car\obj\Debug\netcoreapp2.1\car.AssemblyInfoInputs.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\car\obj\Debug\netcoreapp2.1\car.AssemblyInfo.cs
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\car\obj\Debug\netcoreapp2.1\car.dll
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\car\obj\Debug\netcoreapp2.1\car.pdb
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\car\obj\Debug\netcoreapp2.1\car.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Traffic\bin\Debug\netcoreapp2.1\Traffic.deps.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Traffic\bin\Debug\netcoreapp2.1\Traffic.runtimeconfig.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Traffic\bin\Debug\netcoreapp2.1\Traffic.runtimeconfig.dev.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Traffic\bin\Debug\netcoreapp2.1\Traffic.dll
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Traffic\bin\Debug\netcoreapp2.1\Traffic.pdb
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Traffic\obj\Debug\netcoreapp2.1\Traffic.csproj.CoreCompileInputs.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Traffic\obj\Debug\netcoreapp2.1\Traffic.AssemblyInfoInputs.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Traffic\obj\Debug\netcoreapp2.1\Traffic.AssemblyInfo.cs
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Traffic\obj\Debug\netcoreapp2.1\Traffic.dll
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Traffic\obj\Debug\netcoreapp2.1\Traffic.pdb

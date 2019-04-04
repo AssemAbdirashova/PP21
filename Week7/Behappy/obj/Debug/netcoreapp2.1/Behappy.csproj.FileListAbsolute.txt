@@ -1,0 +1,11 @@
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Behappy\bin\Debug\netcoreapp2.1\Behappy.deps.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Behappy\bin\Debug\netcoreapp2.1\Behappy.runtimeconfig.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Behappy\bin\Debug\netcoreapp2.1\Behappy.runtimeconfig.dev.json
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Behappy\bin\Debug\netcoreapp2.1\Behappy.dll
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Behappy\bin\Debug\netcoreapp2.1\Behappy.pdb
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Behappy\obj\Debug\netcoreapp2.1\Behappy.csprojAssemblyReference.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Behappy\obj\Debug\netcoreapp2.1\Behappy.csproj.CoreCompileInputs.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Behappy\obj\Debug\netcoreapp2.1\Behappy.AssemblyInfoInputs.cache
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Behappy\obj\Debug\netcoreapp2.1\Behappy.AssemblyInfo.cs
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Behappy\obj\Debug\netcoreapp2.1\Behappy.dll
+C:\Users\Дакотти\Desktop\PP2 Lab\Week7\Behappy\obj\Debug\netcoreapp2.1\Behappy.pdb

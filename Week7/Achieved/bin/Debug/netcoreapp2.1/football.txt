@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<ArrayOfFootball xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Football>
+    <t1>
+      <players />
+      <name>GGGGG</name>
+      <coach>
+        <age>23</age>
+        <country>Aydar</country>
+        <name>Shymkent</name>
+      </coach>
+    </t1>
+    <t2>
+      <players />
+      <name>asem</name>
+      <coach>
+        <age>23</age>
+        <country>Aydar</country>
+        <name>Shymkent</name>
+      </coach>
+    </t2>
+    <stadium>Kazan Arena</stadium>
+    <referee>
+      <age>21</age>
+      <country>Ast</country>
+      <name>sar</name>
+    </referee>
+  </Football>
+</ArrayOfFootball>
