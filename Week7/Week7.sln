@@ -15,19 +15,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "car", "car\car.csproj", "{2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cvetophor", "Cvetophor\Cvetophor.csproj", "{AE505FFE-DCCC-49B3-A854-8383225E9C0F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Traffic", "Traffic\Traffic.csproj", "{91253182-2112-4ED4-A29A-2B454B9A13EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Traffic", "Traffic\Traffic.csproj", "{91253182-2112-4ED4-A29A-2B454B9A13EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square", "Square\Square.csproj", "{500121A8-E44C-4157-A955-FBAE70477C4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Square", "Square\Square.csproj", "{500121A8-E44C-4157-A955-FBAE70477C4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SD", "SD\SD.csproj", "{824456A0-4F50-4A3E-9E25-A9BC8286559B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SD", "SD\SD.csproj", "{824456A0-4F50-4A3E-9E25-A9BC8286559B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DD", "DD\DD.csproj", "{E34D1BB9-26B6-4DDD-8454-52A37EAC37D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DD", "DD\DD.csproj", "{E34D1BB9-26B6-4DDD-8454-52A37EAC37D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "example1", "example1\example1.csproj", "{7609C7CB-95E4-4D73-9C24-D1D72A1585D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "example1", "example1\example1.csproj", "{7609C7CB-95E4-4D73-9C24-D1D72A1585D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Achieved", "Achieved\Achieved.csproj", "{EE4001A6-7820-4AA8-8506-4EAF4CF0589B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Achieved", "Achieved\Achieved.csproj", "{EE4001A6-7820-4AA8-8506-4EAF4CF0589B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Behappy", "Behappy\Behappy.csproj", "{2BC1E5BA-5B60-4B1A-8531-964ADE22B049}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Behappy", "Behappy\Behappy.csproj", "{2BC1E5BA-5B60-4B1A-8531-964ADE22B049}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer2", "Timer2\Timer2.csproj", "{CC20ED93-DE40-4CD2-BF04-2DE82855C48D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{2BC1E5BA-5B60-4B1A-8531-964ADE22B049}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BC1E5BA-5B60-4B1A-8531-964ADE22B049}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BC1E5BA-5B60-4B1A-8531-964ADE22B049}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC20ED93-DE40-4CD2-BF04-2DE82855C48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC20ED93-DE40-4CD2-BF04-2DE82855C48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC20ED93-DE40-4CD2-BF04-2DE82855C48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC20ED93-DE40-4CD2-BF04-2DE82855C48D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
