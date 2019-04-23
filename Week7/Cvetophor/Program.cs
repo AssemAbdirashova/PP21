@@ -27,7 +27,7 @@ namespace Cvetophor
             Console.SetWindowSize(40, 40);
             while (true)
             {
-                if (cur == 0 && wall.)
+                if (cur == 0)
                 {
 
 

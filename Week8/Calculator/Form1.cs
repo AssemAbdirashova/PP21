@@ -19,12 +19,12 @@ namespace Calculator
         {
             InitializeComponent();
         }
-
+       
         private void button12_Click(object sender, EventArgs e)
         {
             textBox1.Text = textBox1.Text + 7;
         }
-
+    
         private void button11_Click(object sender, EventArgs e)
         {
             textBox1.Text = textBox1.Text + 8;
@@ -79,6 +79,8 @@ namespace Calculator
             Calculate();
             label1.Text = "";
         }
+        bool ee = false;
+        bool ef = false;
         private void button24_Click(object sender, EventArgs e)
         {
             if (operation == true)
@@ -91,77 +93,58 @@ namespace Calculator
                 operation = true;
             }
         }
-
-        private void button5_Click(object sender, EventArgs e)
+        private void Doit(int i)
         {
             a = double.Parse(textBox1.Text);
             textBox1.Clear();
-            count = 1;
-            label1.Text = a.ToString() + "/";
+            count = i;
             operation = true;
         }
-
         private void button7_Click(object sender, EventArgs e)
         {
             textBox1.Text = "";
             label1.Text = "";
         }
 
+        private void button5_Click(object sender, EventArgs e)
+        {
+            Doit(1);
+            label1.Text = a.ToString() + "/";
+        }
         private void button9_Click(object sender, EventArgs e)
         {
-            a = double.Parse(textBox1.Text);
-            textBox1.Clear();
-            count = 2;
+            Doit(2);
             label1.Text = a.ToString() + "*";
-            operation = true;
-        }
-
+         }
         private void button13_Click(object sender, EventArgs e)
         {
-            a = double.Parse(textBox1.Text);
-            textBox1.Clear();
-            count = 3;
+            Doit(3);
             label1.Text = a.ToString() + "-";
-            operation = true;
+            ef = true;
         }
-
         private void button17_Click(object sender, EventArgs e)
         {
-            a = double.Parse(textBox1.Text);
-            textBox1.Clear();
-            count = 4;
+            Doit(4);
             label1.Text = a.ToString() + "+";
-            operation = true;
+            ee = true;
         }
-
         private void button2_Click(object sender, EventArgs e)
         {
-            a = double.Parse(textBox1.Text);
-            textBox1.Clear();
-            count = 5;
-            label1.Text =  "sqrt" + a.ToString();
-            operation = true;
+            Doit(5);
+            label1.Text = "sqrt" + a.ToString();
         }
-
         private void button3_Click(object sender, EventArgs e)
         {
-            a = double.Parse(textBox1.Text);
-            textBox1.Clear();
-            count = 6;
-            label1.Text =  a.ToString()+"^2";
-            operation = true;
+
+            Doit(6);
+            label1.Text = a.ToString() + "^2";
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-
-            a = double.Parse(textBox1.Text);
-            textBox1.Clear();
-            count = 7;
+            Doit(7);
             label1.Text = "1/" + a.ToString();
-            operation = true;
         }
-
         private void button6_Click(object sender, EventArgs e)
         {
             int length = textBox1.Text.Length - 1;    //Например в текстбоксе записано число 504523
@@ -173,12 +156,23 @@ namespace Calculator
             }
         }
 
-        
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Doit(8);
+            label1.Text = "%" + a.ToString();
+
+        }
+        private void Percent(object sender, EventArgs e)
+        {
+            b = a + a*(double.Parse(textBox1.Text) /100);
+            textBox1.Text = b.ToString();
+        }
 
         private void Calculate()
         {
             switch (count)
             {
+
                 case 1:
                     b = a / double.Parse(textBox1.Text);
                     textBox1.Text = b.ToString();
@@ -207,8 +201,8 @@ namespace Calculator
                     b = 1 / a;
                     textBox1.Text = b.ToString();
                     break;
-                case 8:
-
+                
+                case 9:
                 default:
                     break;
             }
